@@ -1,0 +1,12 @@
+*~
+*.egg-info
+*.EGG-INFO
+*.log
+*.pot
+*.pyc
+*.pyo
+helloworld.db
+venv/
+__pycache__/
+db.sqlite3
+.idea
